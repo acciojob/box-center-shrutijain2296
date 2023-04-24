@@ -8,6 +8,10 @@
 	position:  relative;
 	left: 100px;
 	top: 100px;
-	text-align: center;
 	
+	
+}
+.para{
+	text-align: center;
+	margin-top: 80px
 }
